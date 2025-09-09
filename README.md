@@ -110,7 +110,7 @@ AI_Search_Engine/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/BrightsSolution/QueryMind
+git clone https://github.com/Brights-Solution/QueryMind
 cd QueryMind
 ```
 
