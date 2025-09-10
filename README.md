@@ -183,7 +183,7 @@ streamlit run app.py
 ---
 
 ## 🔴 Live Demo:
-- [Web App](https://ai-querymind.streamlit.app/?embed_options=show_toolbar,dark_theme,show_colored_line,show_footer)
+- [Web App](https://aiquerymind.streamlit.app/?embed_options=show_toolbar,dark_theme,show_colored_line,show_footer)
 ---
 
 ## 👨‍💻 **Author & Contact**
